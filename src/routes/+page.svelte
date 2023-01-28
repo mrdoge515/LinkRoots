@@ -8,10 +8,9 @@
 <div>
 	<Title title="mrdoge's links" />
 
-	<Link name="Discord" url="https://discord.com/" color="#8caaee" />
-	<Link name="YouTube" url="https://youtube.com/" color="#e78284" />
-	<Link name="Twitch" url="https://twitch.com/" color="#ca9ee6" />
-	<Link name="Github" url="https://github.com/" color="#c6d0f5" />
+	<Link name="YouTube" url="https://www.youtube.com/@mrdoge515" color="#e78284" />
+	<Link name="Twitch" url="https://www.twitch.tv/mrdoge___" color="#ca9ee6" />
+	<Link name="Github" url="https://github.com/mrdoge515/" color="#c6d0f5" />
 
 	<Footer />
 </div>

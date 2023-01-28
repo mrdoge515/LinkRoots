@@ -48,7 +48,7 @@
 		transition-property: color background-color;
 		transition: ease-in 0.3s;
 
-		text-shadow: -2px 2px black;
+		text-shadow: -4px 3px black;
 	}
 	a:hover {
 		color: var(--border-color);
@@ -58,6 +58,8 @@
 		height: 2em;
 		display: inline-block;
 		vertical-align: middle;
+		filter: drop-shadow(-2px 2px black);
+		margin-right: 0.1em;
 	}
 	.undefined {
 		animation: undefined 3s infinite;

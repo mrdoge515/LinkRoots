@@ -48,7 +48,7 @@
 		transition-property: color background-color;
 		transition: ease-in 0.3s;
 
-		text-shadow: -4px 3px black;
+		text-shadow: -4px 2px black;
 	}
 	a:hover {
 		color: var(--border-color);

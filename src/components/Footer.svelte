@@ -3,7 +3,7 @@
 <style>
 	p {
 		position: relative;
-		margin-bottom: 0.5em;
+		margin: 0.5em;
 		bottom: 0%;
 
 		color: #a5adce;
@@ -11,5 +11,9 @@
 	}
 	a {
 		color: #f2d5cf;
+		transition: color ease-in 0.3s;
+	}
+	a:hover {
+		color: #ef9f76;
 	}
 </style>

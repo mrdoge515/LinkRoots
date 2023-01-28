@@ -6,7 +6,7 @@
 </script>
 
 <div>
-	<Title title="mrdoge's links" />
+	<Title title="LinkRoots" />
 
 	<Link name="Discord" url="https://discord.com/" color="#8caaee" />
 	<Link name="YouTube" url="https://youtube.com/" color="#e78284" />
